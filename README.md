@@ -1,7 +1,6 @@
-# Paint-App
+# Paint OpenGL (C++ Project)
+This project is a C++ implementation of a painting tool using OpenGL and GLUT.
 
-
-**"paint App using c++ language and glut library"**
 
 ---
 
