@@ -1,7 +1,7 @@
 # Paint-App
 
 
-**"A paint App using c++ language and glut library"**
+**"paint App using c++ language and glut library"**
 
 ---
 
@@ -46,12 +46,12 @@ brew install freeglut
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone https://github.com/UnholyGo/paint-opengl-glut
    ```
 
 2. Navigate to the project directory:
    ```bash
-   cd project-name
+   cd paint-project-opengl
    ```
 
 ---
@@ -74,9 +74,9 @@ Then execute the program:
 ## Screenshots
 
 ### Drawing Interface
-![Drawing Interface](https://via.placeholder.com/800x400.png?text=Drawing+Interface)
+![Drawing Interface](https://github.com/UnholyGo/paint-opengl-glut/blob/main/Screenshot.png)
 
 ### Example Drawing
-![Example Drawing](https://via.placeholder.com/800x400.png?text=Example+Drawing)
+![Example Drawing](https://github.com/UnholyGo/paint-opengl-glut/blob/main/paint.png)
 
 
